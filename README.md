@@ -1,4 +1,4 @@
 userscripts
 ===========
 
-A Collection of small-ish userscripts I've written
+* bf3-kdr - Display K/D Ratio with greater precision in BF3 Battlelog
